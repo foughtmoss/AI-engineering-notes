@@ -1,4 +1,4 @@
-# Appunti di Artificial Intelligence Engineering
+# Appunti LM Artificial Intelligence Engineering
 
 Benvenuto nel repository degli appunti del corso di **Artificial Intelligence Engineering (AIE)**, parte del percorso di Laurea Magistrale in **AIE** presso l'Università di Modena e Reggio Emilia (Unimore).
 
