@@ -7,5 +7,12 @@ Questo repository raccoglie e organizza tutti gli appunti relativi ai corsi freq
 ## Corsi Frequentati
 
 1. Machine Learning and Deepl Learning:
-     Professore del corso: Simone Calderara
-     Anno accademico: 2024/2025 
+          Professore del corso: Simone Calderara
+          Anno accademico: 2024/2025
+          Semestre: I
+   
+3. Multimedia Data Processing:
+          Professore del corso: Costantino Grana
+          Anno accademico: 2024/2025
+          Semestre: II
+         
