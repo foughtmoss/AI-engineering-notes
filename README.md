@@ -9,11 +9,13 @@ Questo repository raccoglie e organizza tutti i miei appunti relativi ai corsi f
 1. **Machine Learning and Deep Learning**  
    - **Professore del corso**: Simone Calderara  
    - **Anno accademico**: 2024/2025  
-   - **Semestre**: I  
+   - **Semestre**: I
+   - **Appunti**:  [Machine Learning and Deep Learning](appunti/Machine Learning and Deep Learning.pdf)
 
 2. **Multimedia Data Processing**  
    - **Professore del corso**: Costantino Grana  
    - **Anno accademico**: 2024/2025  
-   - **Semestre**: II  
+   - **Semestre**: II
+   - **Appunti**:
 
          
