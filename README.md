@@ -12,8 +12,8 @@ Questo repository raccoglie e organizza tutti i miei appunti relativi ai corsi f
    - **Semestre**: I
    - **Appunti**:  [Machine Learning and Deep Learning](Appunti%20Machine%20Learning%20and%20Deep%20Learning.pdf)
 
-2. **Multimedia Data Processing**  
-   - **Professore del corso**: Costantino Grana  
+2. **Applications of ai/ml in operations and supply chain management**  
+   - **Professore del corso**: Davide Mezzogori  
    - **Anno accademico**: 2024/2025  
    - **Semestre**: II
    - **Appunti**:
