@@ -1,21 +1,18 @@
-# Appunti LM Artificial Intelligence Engineering
+# Notes – LM (MSc) in Artificial Intelligence Engineering
 
-Benvenuto nel repository degli appunti del corso di **Artificial Intelligence Engineering (AIE)**
-
-Questo repository raccoglie e organizza tutti i miei appunti relativi ai corsi frequentati durante il programma di studi.
-
-## Corsi Frequentati
+This repository collects and organizes my notes from some courses attended during the study program.
+## Courses
 
 1. **Machine Learning and Deep Learning**  
-   - **Professore del corso**: Simone Calderara  
-   - **Anno accademico**: 2024/2025  
-   - **Semestre**: I
-   - **Appunti**:  [Machine Learning and Deep Learning](Appunti%20Machine%20Learning%20and%20Deep%20Learning.pdf)
+   - **Professor**: Simone Calderara  
+   - **Year**: 2024/2025  
+   - **Semester**: I
+   - **Notes**:  [Machine Learning and Deep Learning](Appunti%20Machine%20Learning%20and%20Deep%20Learning.pdf)
 
 2. **Applications of ai/ml in operations and supply chain management**  
-   - **Professore del corso**: Davide Mezzogori  
-   - **Anno accademico**: 2024/2025  
-   - **Semestre**: II
-   - **Appunti**:   [Applications of ai/ml in operations and supply chain management](Appunti%20di%20Applications%20of%20ai%ml.pdf)
+   - **Professor**: Davide Mezzogori  
+   - **Year**: 2024/2025  
+   - **Semester**: II
+   - **Notes**:   [Applications of ai/ml in operations and supply chain management](Appunti%20di%20Applications%20of%20ai%ml.pdf)
 
          
