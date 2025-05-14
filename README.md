@@ -13,6 +13,6 @@ This repository collects and organizes my notes from some courses attended durin
    - **Professor**: Davide Mezzogori  
    - **Year**: 2024/2025  
    - **Semester**: II
-   - **Notes**:  [Applications of ai/ml in operations and supply chain management](Appunti%20di%20Applications%20of%20ai20%ml.pdf)
+   - **Notes**:  [Applications of ai ml in operations and supply chain management](Appunti%20di%20Applications%20of%20ai20%ml.pdf)
 
          
