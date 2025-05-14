@@ -16,6 +16,6 @@ Questo repository raccoglie e organizza tutti i miei appunti relativi ai corsi f
    - **Professore del corso**: Davide Mezzogori  
    - **Anno accademico**: 2024/2025  
    - **Semestre**: II
-   - **Appunti**:   [Applications of ai/ml in operations and supply chain management](Appunti%20Machine%20Learning%20and%20Deep%20Learning.pdf)
+   - **Appunti**:   [Applications of ai/ml in operations and supply chain management](Appunti%20di%20Applications%20of%20ai%ml.pdf)
 
          
